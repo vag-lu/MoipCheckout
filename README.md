@@ -1,5 +1,5 @@
 # MoipCheckout
-Payment checkout using MoipChallenge API
+Checkout de pagamento utilizando MoipChallenge API.
 
 ## Setup
 * Clone este repositório: `git@github.com:vag-lu/MoipCheckout.git`
